@@ -1,0 +1,17 @@
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/obj/Debug/Assembly-CSharp.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/UnityEngine.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/UnityEditor.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/Mono.Cecil.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/Unity.DataContract.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/netease/Desktop/UnityProject/huanzhuang/Temp/bin/Debug/Mono.Cecil.Mdb.dll
