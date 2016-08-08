@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/MobileMovieTexture/MobileMovieTexture.cs">
+    <Files>
+      <File FileName="Assets/MobileMovieTexture/MobileMovieTexture.cs" Line="538" Column="92" />
+      <File FileName="Assets/MobileMovieTexture/AssetStream.cs" Line="4" Column="1" />
+      <File FileName="Assets/MobileMovieTexture/Shaders/MobileMovieTextureShader_YCrCbtoRGB.shader" Line="55" Column="21" />
+      <File FileName="Assets/MobileMovieTexture/TestMobileTexture.cs" Line="1" Column="1" />
+      <File FileName="Assets/MobileMovieTexture/Shaders/YCrCbtoRGBChromaKey.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

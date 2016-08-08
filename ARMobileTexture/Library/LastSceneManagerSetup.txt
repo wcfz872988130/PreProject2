@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MobileMovieTexture/Scenes/MobileMovieTextureTest.unity
+  isLoaded: 1
+  isActive: 1
