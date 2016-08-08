@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/shader/scene2/mix.shader">
+    <Files>
+      <File FileName="Assets/shader/scene3/法线贴图.shader" Line="4" Column="1" />
+      <File FileName="Assets/Script/PlayerOutLine.cs" Line="1" Column="1" />
+      <File FileName="Assets/shader/scene1/CubeMapping.shader" Line="1" Column="1" />
+      <File FileName="Assets/shader/scene1/Dissolve.shader" Line="1" Column="1" />
+      <File FileName="Assets/shader/scene2/mix.shader" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/shader/scene2/stretch.shader" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/shader/scene2/occlusion.shader" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/shader/scene2/depth.shader" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/shader/scene2/miaobian.shader" Line="1" Column="1" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

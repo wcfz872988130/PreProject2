@@ -1,0 +1,3 @@
+﻿Shader "Simple Glass" {
+
+}
