@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{DCC3AE22-6D38-4780-EC9D-A99C1C29C035}") = "Animation_State", "Assembly-CSharp.csproj", "{1F6B1ED2-6A7E-8069-48FD-C78CB48610BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6B1ED2-6A7E-8069-48FD-C78CB48610BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6B1ED2-6A7E-8069-48FD-C78CB48610BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6B1ED2-6A7E-8069-48FD-C78CB48610BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6B1ED2-6A7E-8069-48FD-C78CB48610BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

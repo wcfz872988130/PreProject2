@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/script/mouseCursor.cs">
+    <Files>
+      <File FileName="Assets/script/mouseCursor.cs" Line="16" Column="53" />
+      <File FileName="Assets/script/NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/AnimationControl.cs" Line="1" Column="1" />
+      <File FileName="Assets/script/Cow2Control.cs" Line="1" Column="1" />
+      <File FileName="Assets/shader/NewUnlitShader.shader" Line="1" Column="1" />
+      <File FileName="Assets/script/UIEraserTexture.cs" Line="16" Column="15" />
+      <File FileName="Assets/script/UILittle.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/netease/Desktop/UnityProject/Animation_State/Assets/script/UIEraserTexture.cs" line="107" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
