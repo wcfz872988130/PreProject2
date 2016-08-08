@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 3890630888
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bdf2648e885db4f624309dce0321749d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 20d2a047ae4e99a3eaf853982df4d9aa
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/m2.mat
+Dependencies:
+- /Users/netease/Desktop/BundleTry/BundleTry/Assets/StreamingAsset/t4.ab

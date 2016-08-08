@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 196247035
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 050af59e940005d3cac07631f30efd19
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 13e42dd76490ad1864575cab35d9e28c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Obj/Plane.prefab
+Dependencies:
+- /Users/netease/Desktop/BundleTry/BundleTry/Assets/StreamingAsset/m2.ab

@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cube.ab
+      Dependencies:
+        Dependency_0: m2.ab
+    Info_1:
+      Name: plane.ab
+      Dependencies:
+        Dependency_0: m2.ab
+    Info_2:
+      Name: m2.ab
+      Dependencies:
+        Dependency_0: t4.ab
+    Info_3:
+      Name: t4.ab
+      Dependencies: {}
+    Info_4:
+      Name: t1.ab
+      Dependencies: {}
+    Info_5:
+      Name: t2.ab
+      Dependencies: {}
+    Info_6:
+      Name: t3.ab
+      Dependencies: {}
+    Info_7:
+      Name: 1.ab
+      Dependencies: {}

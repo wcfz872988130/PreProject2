@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2494399102
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1409a0d5e0a07af293d2da4e032a5706
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6759894fca659e2049f05064db45ce61
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/t4.png
+Dependencies: []
